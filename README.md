@@ -14,4 +14,4 @@ This study is for analyzing BCR data of staph vaccine (Cell Host and Microbe).
    - Input files: 
      - filtered_contig_annotations_SampleName.csv (generated from Cell Ranger "vdj" output). 
      - the filtered_feature_bc_matrix.h5 (generated from Cell Ranger "count" output). 
-   - Output file: "10_clonotype_network_5.png" in the folder "results".
+   - Output file: "9_clonotype_network_20.png" in the folder "results".
