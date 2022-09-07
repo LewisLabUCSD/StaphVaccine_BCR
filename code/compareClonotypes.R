@@ -1,5 +1,4 @@
 rm(list = ls())
-setwd("G:/My Drive/UCSD/research/Nathan E. Lewis/BCR/BCR_code_submission/DoubleCheckaFINAL")
 
 #Load library
 suppressMessages(library(scRepertoire))
